@@ -1,6 +1,6 @@
 # 🚀 Khazana Fullstack Dashboard
 
-A **full-stack investment dashboard** built using modern technologies to provide **insights** into investment performance, portfolio composition, and stock overlaps.
+A **full-stack investment dashboard** built using modern technologies to provide insights into investment performance, portfolio composition, and stock overlaps.
 
 ## ✨ Features
 
@@ -21,7 +21,7 @@ A **full-stack investment dashboard** built using modern technologies to provide
 - 🎨 **Tailwind CSS** – For modern styling
 - ⚡ **TypeScript** – Type safety and better developer experience
 - 📊 **Recharts/Chart.js** – Data visualization
-- 🗂 **React Query/Zustand/Redux** – State management
+- 🗂 **React Query** – State management
 
 ### **Backend**
 
@@ -29,10 +29,10 @@ A **full-stack investment dashboard** built using modern technologies to provide
 - 🛢 **PostgreSQL (via Supabase)** – Database storage
 - 🔐 **JWT Authentication** – Secure API access
 
-### **Deployment (Optional)**
+### **Deployment**
 
 - 🎭 **Frontend:** Vercel
-- 🔧 **Backend:** Render / Railway / AWS / DigitalOcean
+- 🔧 **Backend:** Render
 
 ---
 
@@ -42,11 +42,7 @@ A **full-stack investment dashboard** built using modern technologies to provide
 ├── README.md
 ├── backend
 │ ├── README.md
-│ ├── **init**.py
-│ ├── **pycache**
-│ │ ├── **init**.cpython-313.pyc
-│ │ ├── config.cpython-313.pyc
-│ │ └── main.cpython-313.pyc
+│ ├── __init__.py
 │ ├── config.py
 │ ├── main.py
 │ ├── requirements.txt
